@@ -481,14 +481,14 @@ Low Gravity  │  INVISIBLE  │  CLICKBAIT
 
 ### Included Files
 
-#### [thirst_gravity_brand_architecture_codename_phantom_engineer.md](./thirst_gravity_brand_architecture_codename_phantom_engineer.md)
+#### [thirst_gravity_brand_architecture_codename_phantom_engineer.md](./docs/thirst_gravity_brand_architecture_codename_phantom_engineer.md)
 Complete brand architecture document including:
 - Archetype deep-dive
 - Thirst-Gravity system
 - Voice and tone guidelines
 - Visual identity specifications
 
-#### [reaper_protocol_unified_forensic_dossier_dead_man_posts.md](./reaper_protocol_unified_forensic_dossier_dead_man_posts.md)
+#### [reaper_protocol_unified_forensic_dossier_dead_man_posts.md](./docs/reaper_protocol_unified_forensic_dossier_dead_man_posts.md)
 Comprehensive forensic analysis of brand identity:
 - Core competencies breakdown
 - Signature frameworks documentation
